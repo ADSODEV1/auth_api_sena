@@ -21,16 +21,16 @@ GA7-220501096-AA5-EV01 del programa Análisis y Desarrollo de Software (SENA).
 - **URL:** `POST http://localhost/auth_api/register`
 - **Body (JSON):**
 {
-  "usuario": "juanperez",
-  "password": "123456"
+  "usuario": "Juan",
+  "password": "juan123"
 }
 
 ### Inicio de sesión
 - **URL:** `POST http://localhost/auth_api/login`
 - **Body (JSON):**
 {
-  "usuario": "juanperez",
-  "password": "123456"
+  "usuario": "Juan",
+  "password": "juan123"
 }
 
 ## Autor
