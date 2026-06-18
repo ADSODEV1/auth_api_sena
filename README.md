@@ -11,7 +11,7 @@ GA7-220501096-AA5-EV01 del programa Análisis y Desarrollo de Software (SENA).
 - Servidor Apache (XAMPP, WAMP, Laragon)
 
 ## Instalación
-1. Importar el archivo `sql/database.sql` en phpMyAdmin
+1. Importar el archivo `sql/auth_api.sql` en phpMyAdmin
 2. Configurar credenciales en `config/database.php`
 3. Copiar el proyecto a la carpeta `htdocs` (XAMPP)
 
