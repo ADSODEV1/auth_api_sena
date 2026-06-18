@@ -34,4 +34,4 @@ GA7-220501096-AA5-EV01 del programa Análisis y Desarrollo de Software (SENA).
 }
 
 ## Autor
-[Tu Nombre]
+Joel Castro
